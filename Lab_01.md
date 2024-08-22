@@ -79,6 +79,7 @@ make
 
 ## Lab_01_05
 取相反数
+A + ~A = -1, A + neg A =0
 取反+1
 ```c++
 int negate(int x) {
