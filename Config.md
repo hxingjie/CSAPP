@@ -10,6 +10,9 @@ sudo apt install g++
 sudo apt install make
 sudo apt install cmake
 
+sudo passwd root
+su root
+
 sudo apt install openssh-server // 安装ssh
 sudo service ssh start // 启动ssh
 sudo ufw disable // 关闭防火墙
